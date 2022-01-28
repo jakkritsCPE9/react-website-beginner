@@ -1,4 +1,6 @@
 import React from 'react';
+import Video from '../../video/video.mp4'
+import { HeroContainer, HeroBg, VideoBg } from './HeroElement';
 
 const HeroSection = () => {
   return (
