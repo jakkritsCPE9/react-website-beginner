@@ -38,7 +38,7 @@ export const NavLogo = styled(LinkR)`
     display: flex;
     align-items: center;
     margin-left: 24px;
-    font-weight: blod;
+    font-weight: bold;
     text-decoration: none;
 `;
 
@@ -86,7 +86,7 @@ export const NavLinks = styled(LinkS)`
     cursor: pointer;
 
     &.active {
-        boder-bottom: 3px solid #01bf71;
+        border-bottom: 3px solid #01bf71;
     }
 
 `;
@@ -115,7 +115,7 @@ export const NavBtnLink = styled(LinkR)`
     text-decoration: none;
 
     &:hover {
-        trasition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
         background: #fff;
         color: #010606;
     }
